@@ -68,6 +68,10 @@ A simple comment system with backend support.
 
 We **really** welcome you to contribute to waline!
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Waline/)
+
 ## Contact
 
 You can contact me through [discussions](https://github.com/walinejs/waline/discussions). Join our [telegram](https://t.me/walinejs) group or scan [QQ group](https://qm.qq.com/cgi-bin/qm/qr?k=rPZvq_EBfwQa6QZX7sToVlhH49c6ed0R&jump_from=webapi) qrcode to communicate about waline!
